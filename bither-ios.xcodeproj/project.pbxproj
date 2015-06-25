@@ -876,6 +876,7 @@
 		ACF4B17219668D5700CE24FD /* MarketListCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MarketListCell.h; path = Cells/MarketListCell.h; sourceTree = "<group>"; };
 		ACF4B17319668D5700CE24FD /* MarketListCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MarketListCell.m; path = Cells/MarketListCell.m; sourceTree = "<group>"; };
 		D61D00DE53941DC6062E1938 /* HDMApi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HDMApi.h; sourceTree = "<group>"; };
+		D61D01A81381F39AFC6A2949 /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = file.yml; path = .travis.yml; sourceTree = "<group>"; };
 		D61D0299B4CDCCFC6D0BA161 /* hdm.bither.net.cer */ = {isa = PBXFileReference; lastKnownFileType = file.der; path = hdm.bither.net.cer; sourceTree = "<group>"; };
 		D61D07CCE58EB1B7FCA04677 /* PasswordGetter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PasswordGetter.h; sourceTree = "<group>"; };
 		D61D089EE8093848A924819C /* HDMApi.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HDMApi.m; sourceTree = "<group>"; };
@@ -1262,6 +1263,7 @@
 				42D9B763193D6B5B00C85B89 /* Frameworks */,
 				42D9B762193D6B5B00C85B89 /* Products */,
 				9451148A66C547A0721851BD /* Pods */,
+				D61D01A81381F39AFC6A2949 /* .travis.yml */,
 			);
 			sourceTree = "<group>";
 		};
