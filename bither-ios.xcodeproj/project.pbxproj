@@ -135,7 +135,6 @@
 		42D9B771193D6B5B00C85B89 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 42D9B770193D6B5B00C85B89 /* main.m */; };
 		42D9B775193D6B5B00C85B89 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 42D9B774193D6B5B00C85B89 /* AppDelegate.m */; };
 		42D9B777193D6B5B00C85B89 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42D9B776193D6B5B00C85B89 /* Images.xcassets */; };
-		42D9B77E193D6B5B00C85B89 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42D9B77D193D6B5B00C85B89 /* XCTest.framework */; };
 		42D9B77F193D6B5B00C85B89 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42D9B764193D6B5B00C85B89 /* Foundation.framework */; };
 		42D9B780193D6B5B00C85B89 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42D9B768193D6B5B00C85B89 /* UIKit.framework */; };
 		42D9B788193D6B5B00C85B89 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 42D9B786193D6B5B00C85B89 /* InfoPlist.strings */; };
@@ -148,15 +147,6 @@
 		AC0135D9194FDCDF00E3BB95 /* HotAddressAddPrivateKeyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC0135D8194FDCDF00E3BB95 /* HotAddressAddPrivateKeyViewController.m */; };
 		AC0135DC19501D9400E3BB95 /* DialogPassword.m in Sources */ = {isa = PBXBuildFile; fileRef = AC0135DB19501D9400E3BB95 /* DialogPassword.m */; };
 		AC0135E0195056BE00E3BB95 /* KeyboardController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC0135DF195056BE00E3BB95 /* KeyboardController.m */; };
-		AC026C8A19EE5FF500BC0152 /* libPods-Bitheri.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AC026C8019EE5FF500BC0152 /* libPods-Bitheri.a */; };
-		AC026C8B19EE5FF500BC0152 /* libPods-CocoaLumberjack.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AC026C8119EE5FF500BC0152 /* libPods-CocoaLumberjack.a */; };
-		AC026C8C19EE5FF500BC0152 /* libPods-FMDB.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AC026C8219EE5FF500BC0152 /* libPods-FMDB.a */; };
-		AC026C8D19EE5FF500BC0152 /* libPods-KSCrash.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AC026C8319EE5FF500BC0152 /* libPods-KSCrash.a */; };
-		AC026C8E19EE5FF500BC0152 /* libPods-MKNetworkKit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AC026C8419EE5FF500BC0152 /* libPods-MKNetworkKit.a */; };
-		AC026C8F19EE5FF500BC0152 /* libPods-OpenSSL.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AC026C8519EE5FF500BC0152 /* libPods-OpenSSL.a */; };
-		AC026C9019EE5FF500BC0152 /* libPods-Reachability.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AC026C8619EE5FF500BC0152 /* libPods-Reachability.a */; };
-		AC026C9119EE5FF500BC0152 /* libPods-RegexKitLite.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AC026C8719EE5FF500BC0152 /* libPods-RegexKitLite.a */; };
-		AC026C9319EE5FF500BC0152 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AC026C8919EE5FF500BC0152 /* libPods.a */; };
 		AC1454A51A80D04D00E851B4 /* DialogOperationWorld.m in Sources */ = {isa = PBXBuildFile; fileRef = AC1454A41A80D04D00E851B4 /* DialogOperationWorld.m */; };
 		AC1454A81A80D30E00E851B4 /* DialogReplaceWorld.m in Sources */ = {isa = PBXBuildFile; fileRef = AC1454A71A80D30E00E851B4 /* DialogReplaceWorld.m */; };
 		AC1715871969213800337AB5 /* DialogAddressOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = AC1715861969213800337AB5 /* DialogAddressOptions.m */; };
@@ -302,6 +292,7 @@
 		DAB2C8761A206F080011EE2F /* KeychainBackupUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = DAB2C8751A206F080011EE2F /* KeychainBackupUtil.m */; };
 		DAD0FFF51A81D08D008AEAA2 /* HDMApiTest.m in Sources */ = {isa = PBXBuildFile; fileRef = DAD0FFF41A81D08D008AEAA2 /* HDMApiTest.m */; };
 		DAD0FFF61A81D41B008AEAA2 /* hdm.bither.net.cer in Resources */ = {isa = PBXBuildFile; fileRef = D61D0299B4CDCCFC6D0BA161 /* hdm.bither.net.cer */; };
+		DAEC99C31B3C060C00E01690 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DAEC99C21B3C060C00E01690 /* libPods.a */; };
 		DC02BC2D62776189E7335151 /* GroupUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = DC08C1C370321C08C785C9E1 /* GroupUtil.m */; };
 		DC0448DAEF65BD227897D240 /* HDMKeychainRecoverUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = DC0CC84409CD956F1FA008BF /* HDMKeychainRecoverUtil.m */; };
 		DC06422DA44A6DA77DCFBB2D /* ImportHDMCold.m in Sources */ = {isa = PBXBuildFile; fileRef = DC0A375AE83A8BA37F3FA65F /* ImportHDMCold.m */; };
@@ -900,6 +891,7 @@
 		DAB2C8741A206F080011EE2F /* KeychainBackupUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KeychainBackupUtil.h; sourceTree = "<group>"; };
 		DAB2C8751A206F080011EE2F /* KeychainBackupUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeychainBackupUtil.m; sourceTree = "<group>"; };
 		DAD0FFF41A81D08D008AEAA2 /* HDMApiTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HDMApiTest.m; sourceTree = "<group>"; };
+		DAEC99C21B3C060C00E01690 /* libPods.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libPods.a; path = "Pods/../build/Debug-iphoneos/libPods.a"; sourceTree = "<group>"; };
 		DC01B0277E3ECFEB18F87712 /* HDMRecoverSetting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HDMRecoverSetting.h; sourceTree = "<group>"; };
 		DC03155DE24560F766E286C4 /* HDMKeychainRecoverUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HDMKeychainRecoverUtil.h; sourceTree = "<group>"; };
 		DC0769FAB5B4727E089E23CC /* HDMRecoverSetting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HDMRecoverSetting.m; sourceTree = "<group>"; };
@@ -940,16 +932,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AC026C8A19EE5FF500BC0152 /* libPods-Bitheri.a in Frameworks */,
-				AC026C8B19EE5FF500BC0152 /* libPods-CocoaLumberjack.a in Frameworks */,
-				AC026C8C19EE5FF500BC0152 /* libPods-FMDB.a in Frameworks */,
-				AC026C8D19EE5FF500BC0152 /* libPods-KSCrash.a in Frameworks */,
-				AC026C8E19EE5FF500BC0152 /* libPods-MKNetworkKit.a in Frameworks */,
-				AC026C8F19EE5FF500BC0152 /* libPods-OpenSSL.a in Frameworks */,
-				AC026C9019EE5FF500BC0152 /* libPods-Reachability.a in Frameworks */,
-				AC026C9119EE5FF500BC0152 /* libPods-RegexKitLite.a in Frameworks */,
-				AC026C9319EE5FF500BC0152 /* libPods.a in Frameworks */,
-				42D9B77E193D6B5B00C85B89 /* XCTest.framework in Frameworks */,
+				DAEC99C31B3C060C00E01690 /* libPods.a in Frameworks */,
 				42D9B780193D6B5B00C85B89 /* UIKit.framework in Frameworks */,
 				42D9B77F193D6B5B00C85B89 /* Foundation.framework in Frameworks */,
 			);
@@ -1281,6 +1264,7 @@
 		42D9B763193D6B5B00C85B89 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				DAEC99C21B3C060C00E01690 /* libPods.a */,
 				0A637B161AA0419C00696260 /* libPods.a */,
 				ACBE75951A202E4900F49EE1 /* LocalAuthentication.framework */,
 				AC026C8019EE5FF500BC0152 /* libPods-Bitheri.a */,
@@ -2637,6 +2621,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Pods/build/Debug-iphoneos/**",
+					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
@@ -2660,6 +2645,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Pods/build/Debug-iphoneos/**",
+					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
