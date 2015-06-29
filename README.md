@@ -1,5 +1,6 @@
 bither-ios
 ==========
+[![Build Status](https://travis-ci.org/bitwolaiye/bither-ios.svg)](https://travis-ci.org/bitwolaiye/bither-ios)
 
 Bither is a simple and secure Bitcoin wallet! You can find Bither on [App Store](https://itunes.apple.com/app/bither/id899478936).
 
