@@ -6,4 +6,4 @@ osx_image: beta-xcode6.3
 script:
 - xcodebuild -showsdks
 - instruments -s devices
-- xcodebuild -workspace bither-ios.xcworkspace -scheme bither-ios -sdk iphonesimulator8.3 ONLY_ACTIVE_ARCH=NO
+- xctool -workspace bither-ios.xcworkspace -scheme bither-ios -sdk iphonesimulator8.3 ONLY_ACTIVE_ARCH=NO
